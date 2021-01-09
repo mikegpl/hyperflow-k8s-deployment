@@ -71,7 +71,7 @@ Note that all job variables have default values which will be used if not overri
 
 ### Setting up the cluster the Helm way
 
-Firstly, make sure your k8s context and namespaces point to right cluster. Then, setup the helm on your cluster using `helm init --history-max 50`.
+Firstly, make sure your k8s context and namespaces point to right cluster.
 
 There are several details you should know before installing Hyperflow on your cluster:
 
